@@ -32,15 +32,10 @@ Transaction_Service - Данный проект представляет соб�
 
 1. Клонируйте репозиторий с тестами для Вашего финального проекта:
    ```bash
-   git clone git@github.com:NikolayGerasimov495/transaction_service.git
+   git clone git@github.com:NikolayGerasimov495/UserTransactionService.git
    cd transaction_service
 
-## Предварительная настройка
 
-1. Клонируйте репозиторий с тестами для Вашего финального проекта:
-   ```bash
-   git clone git@github.com:NikolayGerasimov495/UserTransactionService.git
-   cd UserTransactionService
 2. Создайте и активируйте виртуальное окружение:
 
     ```bash
